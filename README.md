@@ -4,7 +4,7 @@
 
 📍 London, UK
 
-💡 Interested in AI, Machine Learning, Computer Vision, and Data Analytics
+💡 Interested in Data Analytics, AI, Machine Learning, and Computer Vision
 
 
 ## 👨‍💻 About Me
