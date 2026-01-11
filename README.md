@@ -11,7 +11,7 @@
 
 I am an AI postgraduate with a strong foundation in machine learning, deep learning, computer vision, and data analytics, backed by hands-on experience in software engineering and full‑stack development. I enjoy working with complex datasets, building predictive models, and translating research ideas into practical, real‑world solutions.
 
-I have industry experience as a Junior Software Engineer, where I worked on data‑driven web applications, SQL-based analytics, and dashboards for clients. I am particularly interested in applying AI to healthcare and business decision‑making.
+I have industry experience as a Junior Software Engineer, where I worked on data‑driven web applications, SQL-based analytics, and dashboards for clients. I am particularly interested in applying data analysis and AI to make business decisions.
 
 ## 🛠️ Technical Skills
 
