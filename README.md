@@ -21,7 +21,8 @@ I have industry experience as a Junior Software Engineer, where I worked on data
 
 ### AI & Data
 - Machine Learning & Deep Learning
-- Computer Vision
+- Computer Vision, Transformers, Diffusion Models, 3D Segmentation
+- OpenAI GPT, Prompt Engineering, Agentic Workflow
 - Statistical Modelling & Predictive Analytics
 - Data Visualisation (Power BI, Tableau, Matplotlib, Seaborn)
 
